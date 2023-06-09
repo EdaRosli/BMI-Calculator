@@ -1,0 +1,47 @@
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(10, 9, 9, 0.2);
+  max-width: 400px;
+  margin: auto;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.title {
+  color: grey;
+  font-size: 50px;
+}
+body{
+    min-height: 100vh;
+    background-color: #efc2e4;
+    background-size: cover;
+
+}
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #120e11;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+  text-decoration: none;
+  font-size: 26px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+<div style="margin: 24px 0;">
+<a href="https://sites.google.com/student.uitm.edu.my/nurwaheeda/home"><i class="fa fa-google sites"></i></a> 
+<a href="https://twitter.com/nurwahe30001956?t=kELHTP9DGN-AmCLCgbICSA&s=09 "><i class="fa fa-twitter"></i></a>   
+<a href="https://www.facebook.com/waheeda.selly?mibextid=ZbWKwL"><i class="fa fa-facebook"></i></a> 
+</div>
